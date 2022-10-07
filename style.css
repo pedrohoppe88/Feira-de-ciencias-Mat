@@ -26,12 +26,13 @@ nav ul {
       padding: 40px;
 }
 
-nav ul li {
+nav ul li a {
       text-decoration: none;
       padding: 0px 20px;
       cursor: pointer;
       font-size: 18px;
       transition: ease-out 0.3s;
+      color: white;
 }
 
 nav img {

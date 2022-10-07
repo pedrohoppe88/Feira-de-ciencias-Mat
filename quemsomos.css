@@ -1,0 +1,172 @@
+*{
+      padding: 0;
+      margin: 0;
+      background:cornflowerblue
+}
+
+body {
+      display: flex;
+      justify-content: space-around;
+      padding-top: 25vh;
+      background:cornflowerblue
+}
+
+
+.card {
+      display: flex;
+      justify-content: center;
+      position: relative;
+      background: #333;
+      width: 400px;
+      height: 45vh;
+      border-radius: 6px;
+      padding: 2rem;
+      color: #aaa;
+      box-shadow: 0 .25rem .25rem rgba(0,0,0,0.2),
+      0 0 1rem rgba(0,0,0,0.2);
+      overflow: hidden;
+      border-radius: 15px;
+}
+
+#card1 img {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      width: 100px;
+      border-radius: 50px;
+      position: relative;
+      left: 120px;
+
+
+}
+
+#card1 h1 {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      padding: 20px;
+      font-size: 30px;
+}
+
+#card1 p {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      font-size: 18px;
+
+}
+
+#card1 a{
+      text-decoration: none;
+      list-style: none;
+
+}
+
+#instagram {
+      padding: 0px 20px;
+      transition: ease-in-out;
+}
+
+#instagram:hover{
+      font-size: 15px;
+      transition: 0.80s;
+      
+
+}
+
+#twitter {
+      padding: 0px 20px;
+}
+
+#facebook {
+      padding: 0px 20px;
+}
+
+#github {
+      padding: 0px 20px;
+      padding-top: 30px;
+}
+
+.social {
+      padding-top: 70px;
+}
+
+.card {
+      display: flex;
+      justify-content: center;
+      position: relative;
+      background: #333;
+      width: 400px;
+      height: 45vh;
+      border-radius: 6px;
+      padding: 2rem;
+      color: #aaa;
+      box-shadow: 0 .25rem .25rem rgba(0,0,0,0.2),
+      0 0 1rem rgba(0,0,0,0.2);
+      overflow: hidden;
+      border-radius: 15px;
+}
+
+#card2 img {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      width: 100px;
+      border-radius: 50px;
+      position: relative;
+      left: 120px;
+
+
+}
+
+#card2 h1 {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      padding: 20px;
+      font-size: 30px;
+}
+
+#card1 p {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      font-size: 18px;
+
+}
+
+#card2 a{
+      text-decoration: none;
+      list-style: none;
+
+}
+
+#instagram {
+      padding: 0px 20px;
+      transition: ease-in-out;
+}
+
+#instagram:hover{
+      font-size: 15px;
+      transition: 0.80s;
+      
+
+}
+
+#twitter {
+      padding: 0px 20px;
+}
+
+#facebook {
+      padding: 0px 20px;
+}
+
+#github {
+      padding: 0px 20px;
+      padding-top: 30px;
+}
+
+.social {
+      padding-top: 70px;
+}
+
